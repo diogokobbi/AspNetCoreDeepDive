@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleWebApi", "SimpleWebApi", "{1085B4BB-1BB4-466A-B16B-AD57D1AD9893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreDeepDive.SimpleWebApi", "SimpleWebApi\AspNetCoreDeepDive.SimpleWebApi\AspNetCoreDeepDive.SimpleWebApi.csproj", "{CA1C76C5-4293-4E82-9C0A-2A4950021E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA1C76C5-4293-4E82-9C0A-2A4950021E42} = {1085B4BB-1BB4-466A-B16B-AD57D1AD9893}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1C76C5-4293-4E82-9C0A-2A4950021E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1C76C5-4293-4E82-9C0A-2A4950021E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1C76C5-4293-4E82-9C0A-2A4950021E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1C76C5-4293-4E82-9C0A-2A4950021E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
